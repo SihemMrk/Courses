@@ -19,3 +19,6 @@ Animal.prototype = {
 }
 ```
 
+**__proto__** : is an allias that exposes the prototype property.
+
+
