@@ -38,19 +38,19 @@ ESSENTIAL TAGS OVERVIEW:
 Here are some of the most commonly used HTML tags:
 
 *Section Headings - `<h1>` - `<h6>`
-The HTML `<h1>–<h6> elements* represent six levels of section headings. `<h1>` is the highest section level and `<h6>` is the lowest.
+The HTML `<h1>–<h6>` elements represent six levels of section headings. `<h1>` is the highest section level and `<h6>` is the lowest.
 
-*Paragraph
-    *Tag: `<p> Hello World </p>`
-    *Creates and separates a block of text from its surrounding elements with a blank space
-    *Paragraphs are block-level elements (we'll take a look at block vs inline elements soon)
+* Paragraph
+    * Tag: `<p> Hello World </p>`
+    * Creates and separates a block of text from its surrounding elements with a blank space
+    * Paragraphs are block-level elements (we'll take a look at block vs inline elements soon)
 
-*Anchor
-    *Tag: `<a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a'> This is a Hyperlink </a>`
-    *The Anchor element or `<a></a>`tag creates a hyperlink
-    *`href` is an attribute. An attribute provides extra configuration details or adds behavior to an element. `href` holds the reference to the link the user will be redirected to when clicked.
+* Anchor
+    * Tag: `<a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a'> This is a Hyperlink </a>`
+    * The Anchor element or `<a></a>`tag creates a hyperlink
+    * `href` is an attribute. An attribute provides extra configuration details or adds behavior to an element. `href` holds the reference to the link the user will be redirected to when clicked.
 
-*Content Division
-    *Tag: `
+* Content Division
+    * Tag: `
     content
-    *The `div` element is a flexibile container commonly used to group related elements with one another.
+    * The `div` element is a flexibile container commonly used to group related elements with one another.
