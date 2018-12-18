@@ -10,9 +10,9 @@ HTML consists of a series of elements, which you use to enclose, wrap, or mark u
 
 With this minor adjustment, the web browser knows how the page should be formatted. The HTML Elements can use :
 
-*<h1> - represents a header or title
-*<p> - represents a paragraph of text
-*<div> - represents a division
+* <h1> - represents a header or title
+* <p> - represents a paragraph of text
+* <div> - represents a division
     the <div> has an attribute (align) that moves its positioning to the right of the page.
 
 Each HTML element has its own set of characteristics that are applied to the formatting of the web page. For example, the <h1> element increased the text size and adjusted the font weight to bold and the <p> element added a line breaks and grouped text together.
