@@ -10,16 +10,16 @@ HTML consists of a series of elements, which you use to enclose, wrap, or mark u
 
 With this minor adjustment, the web browser knows how the page should be formatted. The HTML Elements can use :
 
-* <h1> - represents a header or title
-* <p> - represents a paragraph of text
-* <div> - represents a division
+* `<h1>` - represents a header or title
+* `<p>` - represents a paragraph of text
+* `<div>` - represents a division
     the <div> has an attribute (align) that moves its positioning to the right of the page.
 
-Each HTML element has its own set of characteristics that are applied to the formatting of the web page. For example, the <h1> element increased the text size and adjusted the font weight to bold and the <p> element added a line breaks and grouped text together.
+Each HTML element has its own set of characteristics that are applied to the formatting of the web page. For example, the `<h1>` element increased the text size and adjusted the font weight to bold and the `<p>` element added a line breaks and grouped text together.
 
 To apply an element, you need to use "tags". The general syntax of an HTML tag is:
 
-<TAG> TEXT </TAG>
+`<TAG> TEXT </TAG>`
 
 Tags are the building blocks or lego pieces you add to your web page to build the structure and layout.
 
@@ -38,7 +38,7 @@ ESSENTIAL TAGS OVERVIEW:
 Here are some of the most commonly used HTML tags:
 
 *Section Headings - `<h1>` - `<h6>`
-The *HTML <h1>–<h6> elements* represent six levels of section headings. <h1> is the highest section level and <h6> is the lowest.
+The HTML `<h1>–<h6> elements* represent six levels of section headings. `<h1>` is the highest section level and `<h6>` is the lowest.
 
 *Paragraph
     *Tag: `<p> Hello World </p>`
